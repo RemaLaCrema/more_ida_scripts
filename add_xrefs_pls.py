@@ -1,3 +1,7 @@
+# This simple plugin just adds XRef to function number
+# to the beginning of the function.
+
+
 import idautils
 import idaapi
 import idc
